@@ -12,7 +12,7 @@
 
 ## ✨ Features
 
-- **Real-time Market Data**: Stay updated with live prices, historical trends, and market movements powered by [CoinGecko API].
+- **Real-time Market Data**: Stay updated with live prices, historical trends, and market movements powered by [CoinAPI.io].
 - **Portfolio Management**: Track your holdings and visualize their performance over time.
 - **Interactive Charts & Analytics**: 
   - Line and area charts powered by `recharts` for market trends.
@@ -33,7 +33,7 @@
 
 ### **Backend & Data Fetching**
 - **Server-Side Data Fetching:** Next.js API routes
-- **Market Data API:** [CoinGecko API]
+- **Market Data API:** [CoinAPI.io]
 
 ### **Charts & Visualization**
 - **Library:** `recharts`
